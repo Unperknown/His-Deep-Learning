@@ -1,2 +1,7 @@
-# His-Deep-Learning
-Unknown's Deep Learning
+# Deep-Learning
+제가 딥러닝을 한다고 하네요
+
+### 2018.7
+```
+- 퍼셉트론을 이용한 논리 게이트 구현
+```
