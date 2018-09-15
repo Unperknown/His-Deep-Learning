@@ -1,7 +1,8 @@
-# Deep-Learning
-머신러닝 연습 
+# Machine Learning TIL by Unperknown
 
-### 2018.7
+머신러닝 연습하기
+
+### 2018.9
 ```
-- 퍼셉트론을 이용한 논리 게이트 구현
+- 
 ```
